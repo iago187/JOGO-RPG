@@ -6,5 +6,6 @@ public class App {
 
         fase.carregar(mago);
         fase.carregar(new Dragao());
+        fase.carregar(new Dragao());
     }
 }
